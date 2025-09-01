@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 <span style="color: #FFD700; font-weight: 900; font-size: 1.3em; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); letter-spacing: 2px;">**FAJAR KURNIA**</span>
+# **FAJAR KURNIA**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mobile+App+Developer;UI%2FUX+Enthusiast;Tech+Innovator;Digital+Creator" alt="Typing SVG" />
 
