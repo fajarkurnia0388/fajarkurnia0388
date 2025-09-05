@@ -1,6 +1,7 @@
 <div align="center">
 
-# **F A J A R K U R N I A**
+# **F A J A R**
+# **K U R N I A**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mobile+App+Developer;UI%2FUX+Enthusiast;Tech+Innovator;Digital+Creator" alt="Typing SVG" />
 
